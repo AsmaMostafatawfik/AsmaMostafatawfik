@@ -37,14 +37,6 @@
 
 ---
 
-### **🚀 Projects**
-🌟 **[Small Business - E-Commerce Platform](https://github.com/AsmaMostafatawfik/Small_Business_MVC)**  
-🔹 An e-commerce web application for small businesses, allowing owners to manage their brands and products efficiently.  
-
-🌟 **[Phone Spare Parts - Online Store](https://github.com/AsmaMostafatawfik/Phone_Spare_Parts_MVC)**  
-🔹 A platform designed to help customers easily find and purchase mobile phone spare parts.  
-
----
 
 ### **📊 GitHub Stats**
 <div align="center">
