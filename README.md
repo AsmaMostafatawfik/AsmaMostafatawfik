@@ -50,15 +50,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AsmaMostafatawfik&show_icons=true&theme=dark" height="200" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaMostafatawfik&theme=dark" height="200" />
+   
 </div>
 
 ---
 
-### **📢 Let's Connect!**
-If you’re interested in collaborating or have any questions, feel free to reach out! 🚀  
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading...</p>
-</div>
